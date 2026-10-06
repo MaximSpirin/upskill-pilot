@@ -45,6 +45,8 @@ Local or open-weight models may be evaluated where their quality and deployment 
 
 [GitHub profile](https://github.com/MaximSpirin)
 
+[LinkedIn profie](https://www.linkedin.com/in/maxim-s-74957379/)
+
 ## Potential public-sector adoption
 
 If the pilot demonstrates useful outcomes and sustainable operating costs, the platform could be offered for adoption or transfer to Moldovan public authorities responsible for employment and social policy. This could support wider access to personalised reskilling and career preparation through public employment services.
